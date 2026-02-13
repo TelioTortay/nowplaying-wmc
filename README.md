@@ -104,7 +104,7 @@ More info: [Flatpak Repository](https://teliotortay.github.io/obs-now-playing-fl
 
 3. **Run the server**
    ```bash
-   python server.py
+   python now-playing-server.py
    ```
    
    You should see a beautiful dashboard in your terminal! 🎉
@@ -148,7 +148,7 @@ To use a different font:
 
 ### Server Ports
 
-Edit `server.py` to change default ports:
+Edit `now-playing-server.py` to change default ports:
 
 ```python
 WS_PORT = 6534   # WebSocket for widget data
@@ -167,7 +167,7 @@ The widget renders at 3× resolution by default for crisp display. Adjust if nee
 
 ### Widget shows nothing
 
-- ✅ Make sure the server is running (`python server.py`)
+- ✅ Make sure the server is running (`python now-playing-server.py`)
 - ✅ Check that a media player is playing music
 - ✅ Verify browser source dimensions: **1800×450**
 - ✅ Try refreshing the browser source in OBS
@@ -254,7 +254,7 @@ OBS Browser Source (Widget)
 
 Run multiple servers on different ports:
 
-1. Copy `server.py` to `server2.py`
+1. Copy `now-playing-server.py` to `now-playing-server2.py`
 2. Edit ports: `WS_PORT = 6536`, `HTTP_PORT = 6537`
 3. Update widget to connect to new port
 4. Run both servers simultaneously
