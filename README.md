@@ -26,7 +26,7 @@ A beautiful, lightweight "Now Playing" widget for OBS Studio and streaming softw
 # Dashboard
 Linux             |  Windows
 :-------------------------:|:-------------------------:
-![](https://github.com/TelioTortay/obs-now-playing/blob/main/screenshots/dashboard-linux.png)  |  ![](https://github.com/TelioTortay/obs-now-playing/blob/main/screenshots/dashboard-win.jpg)
+![](https://github.com/TelioTortay/obs-now-playing/blob/main/screenshots/dashboard-linux.png)  |  ![](https://github.com/TelioTortay/obs-now-playing/blob/main/screenshots/dashboard-win.png)
 
 ## 🚀 Quick Start
 
