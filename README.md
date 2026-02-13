@@ -20,8 +20,12 @@ A beautiful, lightweight "Now Playing" widget for OBS Studio and streaming softw
 - 🎭 **Customizable** - Easy color and style customization
 
 ## 🖼️ Screenshots
+# Widget
+(https://github.com/TelioTortay/obs-now-playing/blob/main/screenshots/widget.png)
 
-*Coming soon - Add your screenshots here!*
+# Dashboard
+(https://github.com/TelioTortay/obs-now-playing/blob/main/screenshots/dashboard-linux.png)
+(https://github.com/TelioTortay/obs-now-playing/blob/main/screenshots/dashboard-win.jpg)
 
 ## 🚀 Quick Start
 
