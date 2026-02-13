@@ -115,9 +115,7 @@ More info: [Flatpak Repository](https://teliotortay.github.io/obs-now-playing-fl
 2. Configure:
    - ✅ **Local file**: Checked
    - 📁 **Local file path**: 
-     - **Linux (Flatpak)**: `~/.var/app/io.github.TelioTortay.ObsNowPlaying/share/obs-now-playing/widget.html`
-     - **Windows**: Browse to the downloaded `now-playing-widget.html`
-     - **From source**: Browse to `now-playing-widget.html` in your project folder
+     - **Windows & Linux**: Browse to the downloaded `now-playing-widget.html`
    - 📏 **Width**: `1800`
    - 📏 **Height**: `450`
 3. In your scene, **resize the source to 600×150** for crisp rendering
